@@ -31,7 +31,7 @@ const BasicExample = () => (
 
         <div className="container-fluid ">
             <div className="contakt-nav"><div className="sicial-nav">
-                <p><img src="/mobile-phone.png" className="icon" alt=""/> 502 614 262 <img src="/mail.png" alt="" className="icon"/>  ewa@a-priori.pl</p></div></div>
+                <p><img src="/mobile-phone.png" className="icon" alt=""/> 502 614 262 <img src="/mail.png" alt="" className="icon"/>  przyklad@email.pl</p></div></div>
             <Navbar inverse collapseOnSelect>
                 <Navbar.Header>
                     <Navbar.Brand>

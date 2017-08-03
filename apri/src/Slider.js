@@ -4,7 +4,7 @@ import {Carousel} from 'react-bootstrap'
 const Slider = () => (
     <Carousel>
         <Carousel.Item>
-            <img src="/slide1.png" alt="" className="foto-slide"/>
+            <img src="/ulica.jpg" alt="" className="foto-slide"/>
             <Carousel.Caption>
                 <h3>First slide label</h3>
                 <p>Nulla vitae elit libero, a pharetra augue mollis interdum.</p>
