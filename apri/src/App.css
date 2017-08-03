@@ -1,3 +1,9 @@
+@import url('https://fonts.googleapis.com/css?family=Play');
+
+
+
+
+
 .dropdown-menu li:hover .sub-menu {
   visibility: visible;
 }
@@ -6,6 +12,17 @@
   display: block;
 }
 
+.navbar-inverse .navbar-nav > .open > a, .navbar-inverse .navbar-nav > .active > a {
+  font-family: 'Play', sans-serif;
+}
+
+.navbar-inverse .navbar-brand, .navbar-inverse .navbar-nav > li > a {
+  font-family: 'Play', sans-serif;
+}
+
+.dropdown-menu > li > a {
+  font-family: 'Play', sans-serif;
+}
 
 
 .slider {
